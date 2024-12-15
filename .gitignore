@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Data and models
+UrbanSound8K/
+saved_models/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
